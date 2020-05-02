@@ -393,8 +393,8 @@ line-height: 1.6;
   padding: 100px;
 }
 .Hotels-icons{
-  padding: 4px;
-  margin:1.875rem;
+
+  margin:1rem 0;
 }
 #Explore{
   text-align: center;
@@ -543,4 +543,4 @@ color: #eeeeee;
     background: #000 !important;
     color: #0f0 !important;
     outline: solid #f00 1px !important;
-  } 
+  }
